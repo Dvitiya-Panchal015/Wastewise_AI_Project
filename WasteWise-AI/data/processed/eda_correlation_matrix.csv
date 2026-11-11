@@ -1,0 +1,8 @@
+,units_sold,waste_units,days_to_expiry,discount_pct,opening_stock,units_received,temperature_c
+units_sold,1.0,-0.037,0.157,0.168,0.662,0.004,0.144
+waste_units,-0.037,1.0,0.019,-0.018,0.089,0.099,-0.002
+days_to_expiry,0.157,0.019,1.0,0.051,0.128,0.028,0.137
+discount_pct,0.168,-0.018,0.051,1.0,0.122,0.01,0.024
+opening_stock,0.662,0.089,0.128,0.122,1.0,0.008,0.096
+units_received,0.004,0.099,0.028,0.01,0.008,1.0,0.011
+temperature_c,0.144,-0.002,0.137,0.024,0.096,0.011,1.0

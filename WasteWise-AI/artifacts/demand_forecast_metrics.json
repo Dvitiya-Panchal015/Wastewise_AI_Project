@@ -1,0 +1,15 @@
+{
+    "model": "RandomForestRegressor",
+    "target": "units_sold",
+    "training_rows": 1620,
+    "testing_rows": 410,
+    "training_last_date": "2026-09-16",
+    "testing_first_date": "2026-09-17",
+    "testing_last_date": "2026-10-27",
+    "mae": 2.605333526906697,
+    "rmse": 3.534645817442213,
+    "r2": 0.8429081773153005,
+    "baseline_mae": 3.924390243902439,
+    "baseline_rmse": 5.080570354000741,
+    "note": "Historical sales simulation. Test results are an initial evaluation, not proof of real-world forecasting performance."
+}
